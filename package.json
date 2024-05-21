@@ -1,0 +1,26 @@
+{
+  "name": "7-04_puppeteer",
+  "version": "1.0.0",
+  "main": "gh.test.js",
+  "description": "",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "author": "Kris Mishchuk",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TinitaQA/7-04_puppeteer.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/TinitaQA/7-04_puppeteer/issues"
+  },
+  "homepage": "https://github.com/TinitaQA/7-04_puppeteer#readme",
+
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.0.1",
+    "puppeteer": "^22.9.0"
+  }
+}
